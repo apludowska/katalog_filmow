@@ -1,0 +1,35 @@
+body {  
+
+background:linear-gradient(
+    rgba(30,27,38, 0.95), 
+    rgba(30,27,38, 0.95)),
+    url("https://i.ibb.co/FDGqCmM/papers-co-ag74-interstellar-wide-space-film-movie-art-33-iphone6-wallpaper.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: repeat;  
+}
+
+  .all {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+
+  h1 {
+    color: #333;
+    font-size: 40px;
+    margin-bottom: 10px;
+  }
+  
+
+  p {
+    color: #666;
+    font-size: 20px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+
+  

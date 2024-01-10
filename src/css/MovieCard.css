@@ -1,0 +1,42 @@
+
+h1 {
+  color: #a7a2a2;
+  text-align: center; 
+}
+
+.appBar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start; 
+  padding: 10px; 
+  
+}
+.links{
+  padding: 10000px;
+  
+}
+
+button {
+  height: 100%;
+
+  
+  
+}
+.hpbutton{
+  height: 50%;  
+}
+
+
+.pageTitle {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 90px;
+  margin: 0;
+  padding: 0;
+
+
+
+}
